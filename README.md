@@ -73,3 +73,6 @@ if __name__ == "__main__":
 
 ---
 [my github profile link](https://github.com/veledara)
+---
+[link to this repository](https://github.com/veledara/my-git-repo)
+---
